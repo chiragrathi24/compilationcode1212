@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
 	int a, b, sum;
+	cout<<"This is a basic calculator program"<<endl;
 	cout<<"Enter the two numbers to find their sum:"<<endl;
 	cin>>a>>b;
 	sum=a+b;
